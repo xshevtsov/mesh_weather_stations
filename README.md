@@ -8,7 +8,8 @@ The work is based on the concept of IoT, the creation of meteorological stations
 
 
 
-![fullScheme drawio](https://github.com/xshevtsov/mesh_weather_stations/assets/79197893/ee9a763a-4e52-4ef3-b975-b24d8b820086)
+![fullScheme drawio](https://github.com/xshevtsov/mesh_weather_stations/assets/79197893/77efa114-dc4d-45b9-84fb-98bc0c973ced)
+
 
 ![interfaceSite](https://github.com/xshevtsov/mesh_weather_stations/assets/79197893/ccb593e0-8bdd-49ef-8966-82f3f1749729)
 
@@ -17,8 +18,9 @@ The work is based on the concept of IoT, the creation of meteorological stations
 ## Station 
 The station consists of a power module, display, development board, environmental sensor, indicator buzzer, and button.
 
+![StationArrowScheme1](https://github.com/xshevtsov/mesh_weather_stations/assets/79197893/f547d0af-5c16-4008-9554-427a81611cc0)
 
-![StationArrowScheme1](https://github.com/xshevtsov/mesh_weather_stations/assets/79197893/b9a4d7fd-894f-4c66-8629-34f5e26da909)
+
 
 ## Station functionality
 
