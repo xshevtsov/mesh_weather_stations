@@ -45,19 +45,6 @@ The station consists of a power module, display, development board, environmenta
 - Display of constructed data
 
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  description witch code goes where
-```
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
 
 
 
